@@ -11,8 +11,3 @@ Full Stack Developer with 4+ years of experience building and shipping scalable 
 ![](https://github-readme-stats.shion.dev/api?username=abdulrehmang12&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=abdulrehmang12&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrehmang12&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=abdulrehmang12&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
