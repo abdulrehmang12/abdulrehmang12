@@ -10,3 +10,5 @@ Full Stack Developer with 4+ years of experience building and shipping scalable 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=abdulrehmang12&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrehmang12&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadomle&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
